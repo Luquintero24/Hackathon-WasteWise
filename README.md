@@ -8,3 +8,5 @@ The developed AI model, named "Less Waste, More Profit," accurately predicts the
 
 How we built it:
 We utilized a Python-based programming environment and leveraged machine learning libraries such as TensorFlow and scikit-learn. The model was trained on a comprehensive dataset containing production records, demand patterns, and waste data. Feature engineering played a crucial role in extracting meaningful insights from the data. Additionally, we implemented a user-friendly interface for easy interaction and integration into existing production workflows.
+
+
